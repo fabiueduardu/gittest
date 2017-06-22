@@ -1,1 +1,3 @@
 teste file
+info 2
+info 3
